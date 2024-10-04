@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "e-learning.BLL/1.0.0": {
+        "dependencies": {
+          "e-learning.DAL": "1.0.0"
+        },
+        "runtime": {
+          "e-learning.BLL.dll": {}
+        }
+      },
+      "e-learning.DAL/1.0.0": {
+        "runtime": {
+          "e-learning.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "e-learning.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "e-learning.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
