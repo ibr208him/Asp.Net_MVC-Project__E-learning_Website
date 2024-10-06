@@ -1,6 +1,8 @@
-using e_learning.PL.Data;
+using e_learning.DAL.Data;
+using e_learning.PL.Mapping;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 namespace e_learning.PL
 {
@@ -20,6 +22,7 @@ namespace e_learning.PL
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
 
+            builder.Services.AddAutoMapper(Assembly.GetAssembly(typeof(MappingProfile)));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -42,13 +45,11 @@ namespace e_learning.PL
             app.UseAuthorization();
 
             app.MapControllerRoute(
+                name: "areas",
+                pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+            app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
-
-            app.MapControllerRoute(
-              name: "areas",
-            pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
-
             app.MapRazorPages();
 
             app.Run();
