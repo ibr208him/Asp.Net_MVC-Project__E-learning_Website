@@ -1,4 +1,4 @@
-﻿using e_learning.DAL.Data.Models;
+﻿using e_learning.DAL.Models;
 using e_learning.PL.Areas.Dashboard.ViewModels.CategoryViewModels;
 using Microsoft.AspNetCore.Mvc.Rendering;
 

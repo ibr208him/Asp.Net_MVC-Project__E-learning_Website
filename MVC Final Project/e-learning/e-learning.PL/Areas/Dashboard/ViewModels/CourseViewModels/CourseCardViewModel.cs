@@ -1,4 +1,4 @@
-﻿using e_learning.DAL.Data.Models;
+﻿using e_learning.DAL.Models;
 
 namespace e_learning.PL.Areas.Dashboard.ViewModels.CourseViewModels
 {

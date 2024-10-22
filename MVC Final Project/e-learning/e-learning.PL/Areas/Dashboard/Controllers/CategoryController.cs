@@ -1,13 +1,15 @@
 ﻿using AutoMapper;
 using e_learning.DAL.Data;
-using e_learning.DAL.Data.Models;
+using e_learning.DAL.Models;
 using e_learning.PL.Areas.Dashboard.ViewModels;
 using e_learning.PL.Areas.Dashboard.ViewModels.CategoryViewModels;
 using e_learning.PL.Helpers;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace e_learning.PL.Areas.Dashboard.Controllers
 {
+    [Authorize(Roles="Admin,SuperAdmin")]
     [Area("Dashboard")]
     public class CategoryController : Controller
     {
