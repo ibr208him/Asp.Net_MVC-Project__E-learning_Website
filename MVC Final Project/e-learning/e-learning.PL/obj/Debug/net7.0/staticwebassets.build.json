@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x1ULbMcG/nGtIE72XQkBNncwxJfZogt1VCFsMS4+Z/U=",
+  "Hash": "tdq3p+8yUiO0mX+PwSuxZAAeY8uwvLn+4g3OauJYFTk=",
   "Source": "e-learning.PL",
   "BasePath": "_content/e-learning.PL",
   "Mode": "Default",
@@ -1069,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.PL\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\e-learning.PL.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.PL\\wwwroot\\css\\auth.css",
+      "SourceId": "e-learning.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.PL\\wwwroot\\",
+      "BasePath": "_content/e-learning.PL",
+      "RelativePath": "css/auth.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\auth.css"
     },
     {
       "Identity": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.PL\\wwwroot\\css\\site.css",

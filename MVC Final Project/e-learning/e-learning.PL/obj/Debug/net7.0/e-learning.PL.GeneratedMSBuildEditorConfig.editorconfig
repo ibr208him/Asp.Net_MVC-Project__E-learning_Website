@@ -248,6 +248,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/أكاديمية المعرفة/Full stack/Backend/ASP.net__round9/Mine/\#7 MVC/My MVC Project/MVC Project_IbrahimMaali/e-learning/e-learning.PL/Views/Auth/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/أكاديمية المعرفة/Full stack/Backend/ASP.net__round9/Mine/\#7 MVC/My MVC Project/MVC Project_IbrahimMaali/e-learning/e-learning.PL/Views/Auth/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/أكاديمية المعرفة/Full stack/Backend/ASP.net__round9/Mine/\#7 MVC/My MVC Project/MVC Project_IbrahimMaali/e-learning/e-learning.PL/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/أكاديمية المعرفة/Full stack/Backend/ASP.net__round9/Mine/\#7 MVC/My MVC Project/MVC Project_IbrahimMaali/e-learning/e-learning.PL/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/أكاديمية المعرفة/Full stack/Backend/ASP.net__round9/Mine/\#7 MVC/My MVC Project/MVC Project_IbrahimMaali/e-learning/e-learning.PL/Views/Auth/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/أكاديمية المعرفة/Full stack/Backend/ASP.net__round9/Mine/\#7 MVC/My MVC Project/MVC Project_IbrahimMaali/e-learning/e-learning.PL/Views/Auth/SendResetPasswordUrl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTZW5kUmVzZXRQYXNzd29yZFVybC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/أكاديمية المعرفة/Full stack/Backend/ASP.net__round9/Mine/\#7 MVC/My MVC Project/MVC Project_IbrahimMaali/e-learning/e-learning.PL/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -258,6 +282,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/أكاديمية المعرفة/Full stack/Backend/ASP.net__round9/Mine/\#7 MVC/My MVC Project/MVC Project_IbrahimMaali/e-learning/e-learning.PL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/أكاديمية المعرفة/Full stack/Backend/ASP.net__round9/Mine/\#7 MVC/My MVC Project/MVC Project_IbrahimMaali/e-learning/e-learning.PL/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/أكاديمية المعرفة/Full stack/Backend/ASP.net__round9/Mine/\#7 MVC/My MVC Project/MVC Project_IbrahimMaali/e-learning/e-learning.PL/Views/Shared/_LoginPartial.cshtml]
