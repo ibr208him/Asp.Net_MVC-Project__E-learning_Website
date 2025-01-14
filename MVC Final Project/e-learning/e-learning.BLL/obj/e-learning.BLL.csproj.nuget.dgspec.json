@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.BLL\\e-learning.BLL.csproj": {}
+    "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\MVC project to github\\MVC Final Project\\e-learning\\e-learning.BLL\\e-learning.BLL.csproj": {}
   },
   "projects": {
-    "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.BLL\\e-learning.BLL.csproj": {
+    "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\MVC project to github\\MVC Final Project\\e-learning\\e-learning.BLL\\e-learning.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.BLL\\e-learning.BLL.csproj",
+        "projectUniqueName": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\MVC project to github\\MVC Final Project\\e-learning\\e-learning.BLL\\e-learning.BLL.csproj",
         "projectName": "e-learning.BLL",
-        "projectPath": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.BLL\\e-learning.BLL.csproj",
+        "projectPath": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\MVC project to github\\MVC Final Project\\e-learning\\e-learning.BLL\\e-learning.BLL.csproj",
         "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
-        "outputPath": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.BLL\\obj\\",
+        "outputPath": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\MVC project to github\\MVC Final Project\\e-learning\\e-learning.BLL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.DAL\\e-learning.DAL.csproj": {
-                "projectPath": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.DAL\\e-learning.DAL.csproj"
+              "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\MVC project to github\\MVC Final Project\\e-learning\\e-learning.DAL\\e-learning.DAL.csproj": {
+                "projectPath": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\MVC project to github\\MVC Final Project\\e-learning\\e-learning.DAL\\e-learning.DAL.csproj"
               }
             }
           }
@@ -38,7 +42,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -59,21 +69,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.DAL\\e-learning.DAL.csproj": {
+    "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\MVC project to github\\MVC Final Project\\e-learning\\e-learning.DAL\\e-learning.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.DAL\\e-learning.DAL.csproj",
+        "projectUniqueName": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\MVC project to github\\MVC Final Project\\e-learning\\e-learning.DAL\\e-learning.DAL.csproj",
         "projectName": "e-learning.DAL",
-        "projectPath": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.DAL\\e-learning.DAL.csproj",
+        "projectPath": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\MVC project to github\\MVC Final Project\\e-learning\\e-learning.DAL\\e-learning.DAL.csproj",
         "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
-        "outputPath": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\Mine\\#7 MVC\\My MVC Project\\MVC Project_IbrahimMaali\\e-learning\\e-learning.DAL\\obj\\",
+        "outputPath": "D:\\أكاديمية المعرفة\\Full stack\\Backend\\ASP.net__round9\\MVC project to github\\MVC Final Project\\e-learning\\e-learning.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,7 +107,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -134,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

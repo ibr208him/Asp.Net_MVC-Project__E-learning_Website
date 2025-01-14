@@ -13,3 +13,19 @@ D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\Mine\#7 MV
 D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\Mine\#7 MVC\My MVC Project\MVC Project_IbrahimMaali\e-learning\e-learning.BLL\obj\Debug\net7.0\refint\e-learning.BLL.dll
 D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\Mine\#7 MVC\My MVC Project\MVC Project_IbrahimMaali\e-learning\e-learning.BLL\obj\Debug\net7.0\e-learning.BLL.pdb
 D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\Mine\#7 MVC\My MVC Project\MVC Project_IbrahimMaali\e-learning\e-learning.BLL\obj\Debug\net7.0\ref\e-learning.BLL.dll
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\bin\Debug\net7.0\e-learning.BLL.deps.json
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\bin\Debug\net7.0\e-learning.BLL.dll
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\bin\Debug\net7.0\e-learning.BLL.pdb
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\bin\Debug\net7.0\e-learning.DAL.dll
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\bin\Debug\net7.0\e-learning.DAL.pdb
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\obj\Debug\net7.0\e-learning.BLL.csproj.AssemblyReference.cache
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\obj\Debug\net7.0\e-learning.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\obj\Debug\net7.0\e-learning.BLL.AssemblyInfoInputs.cache
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\obj\Debug\net7.0\e-learning.BLL.AssemblyInfo.cs
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\obj\Debug\net7.0\e-learning.BLL.csproj.CoreCompileInputs.cache
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\obj\Debug\net7.0\e-learning.BLL.sourcelink.json
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\obj\Debug\net7.0\e-learni.FCCCD626.Up2Date
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\obj\Debug\net7.0\e-learning.BLL.dll
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\obj\Debug\net7.0\refint\e-learning.BLL.dll
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\obj\Debug\net7.0\e-learning.BLL.pdb
+D:\أكاديمية المعرفة\Full stack\Backend\ASP.net__round9\MVC project to github\MVC Final Project\e-learning\e-learning.BLL\obj\Debug\net7.0\ref\e-learning.BLL.dll

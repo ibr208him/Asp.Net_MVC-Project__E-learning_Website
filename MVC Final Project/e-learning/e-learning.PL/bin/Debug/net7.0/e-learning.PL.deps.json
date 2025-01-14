@@ -2637,7 +2637,10 @@
           "e-learning.DAL": "1.0.0"
         },
         "runtime": {
-          "e-learning.BLL.dll": {}
+          "e-learning.BLL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "e-learning.DAL/1.0.0": {
@@ -2647,7 +2650,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.20"
         },
         "runtime": {
-          "e-learning.DAL.dll": {}
+          "e-learning.DAL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
